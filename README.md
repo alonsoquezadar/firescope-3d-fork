@@ -1,10 +1,12 @@
 # FireScope 3D
 
-> 🌐 **Demo:** https://aleetreny.github.io/FireScope-3D/ — runs entirely in your browser: no server, no keys.
+> 🌐 **Demo:** https://alonsoquezadar.github.io/firescope-3d-fork/ — runs entirely in your browser: no server, no keys.
 >
 > 📘 Pitch y explicación completa (ES): [docs/PITCH_Y_FUNCIONAMIENTO.md](docs/PITCH_Y_FUNCIONAMIENTO.md) · 🗺️ Plan de mejora: [docs/PLAN_DE_MEJORA.md](docs/PLAN_DE_MEJORA.md)
 
 **We turn wildfire drone footage into a time-aware 3D operational picture.**
+
+Built by [Alonso](https://github.com/alonsoquezadar) and [Ali](https://github.com/aleetreny) for the **VAST Builders Challenge hackathon on 17 October 2026**.
 
 FireScope 3D takes drone video of a fire, measures what the camera sees (burned ground, flames, smoke), projects it onto real terrain, and lets you scrub through time, click an event to see the exact video evidence, search the footage and ask questions about the incident in English or Spanish.
 
@@ -121,7 +123,7 @@ Every push to `main` runs [`.github/workflows/pages.yml`](.github/workflows/page
 
 ## History
 
-FireScope 3D was built in a day at the **VAST Builders Challenge (17 Oct 2026)**. There, clip descriptions and video search ran live on NVIDIA Cosmos Reason / Cosmos Embed1 on the event's Kubernetes cluster. That cluster is gone and those outputs were not kept, so they are not reproduced here: [docs/historia-hackathon.md](docs/historia-hackathon.md).
+FireScope 3D was built by [Alonso](https://github.com/alonsoquezadar) and [Ali](https://github.com/aleetreny) in a day at the **VAST Builders Challenge (17 Oct 2026)**. There, clip descriptions and video search ran live on NVIDIA Cosmos Reason / Cosmos Embed1 on the event's Kubernetes cluster. That cluster is gone and those outputs were not kept, so they are not reproduced here: [docs/historia-hackathon.md](docs/historia-hackathon.md).
 
 ## Credits
 
